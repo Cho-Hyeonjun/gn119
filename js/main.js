@@ -61,7 +61,7 @@ $(document).ready(function() {
         $this.siblings('.daily_detail').addClass('active');
 
     });
-    $('.calendar_cont .daily_detail .close').click(function(){
+    $('.calendar_cont .daily_detail .detail_close').click(function(){
         var $this = $(this);
         var $outer = $this.closest('.calTb');
         var $current = $outer.find('.daily_detail.active');
