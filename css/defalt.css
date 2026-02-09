@@ -80,18 +80,18 @@ i {font-style:normal;}
     font-family: 'Noto Sans KR';
     font-style: normal;
     font-weight: 100;
-    src: url('/gnCorp119/css/font/NotoSansKR-Thin.woff2') format('woff2'),
-	url('/gnCorp119/css/font/NotoSansKR-Thin.woff') format('woff'),
-	url('/gnCorp119/css/font/NotoSansKR-Thin.otf') format('opentype');
+    src: url('font/NotoSansKR-Thin.woff2') format('woff2'),
+	url('font/NotoSansKR-Thin.woff') format('woff'),
+	url('font/NotoSansKR-Thin.otf') format('opentype');
 }
 
 @font-face {
     font-family: 'Noto Sans KR';
     font-style: normal;
     font-weight: 300;
-    src: url('/gnCorp119/css/font/NotoSansKR-Light.woff2') format('woff2'),
-	url('/gnCorp119/css/font/NotoSansKR-Light.woff') format('woff'),
-	url('/gnCorp119/css/font/NotoSansKR-Light.otf') format('opentype');
+    src: url('font/NotoSansKR-Light.woff2') format('woff2'),
+	url('font/NotoSansKR-Light.woff') format('woff'),
+	url('font/NotoSansKR-Light.otf') format('opentype');
 }
 
 
@@ -99,50 +99,50 @@ i {font-style:normal;}
     font-family: 'Noto Sans KR';
     font-style: normal;
     font-weight: 400;
-    src: url('/gnCorp119/css/font/NotoSansKR-Regular.woff2') format('woff2'),
-	url('/gnCorp119/css/font/NotoSansKR-Regular.woff') format('woff'),
-	url('/gnCorp119/css/font/NotoSansKR-Regular.otf') format('opentype');
+    src: url('font/NotoSansKR-Regular.woff2') format('woff2'),
+	url('font/NotoSansKR-Regular.woff') format('woff'),
+	url('font/NotoSansKR-Regular.otf') format('opentype');
 }
 
 @font-face {
     font-family: 'Noto Sans KR';
     font-style: normal;
     font-weight: 500;
-    src: url('/gnCorp119/css/font/NotoSansKR-Medium.woff2') format('woff2'),
-	url('/gnCorp119/css/font/NotoSansKR-Medium.woff') format('woff'),
-	url('/gnCorp119/css/font/NotoSansKR-Medium.otf') format('opentype');
+    src: url('font/NotoSansKR-Medium.woff2') format('woff2'),
+	url('font/NotoSansKR-Medium.woff') format('woff'),
+	url('font/NotoSansKR-Medium.otf') format('opentype');
 }
 
 @font-face {
     font-family: 'Noto Sans KR';
     font-style: normal;
     font-weight: 700;
-    src: url('/gnCorp119/css/font/NotoSansKR-Bold.woff2') format('woff2'),
-	url('/gnCorp119/css/font/NotoSansKR-Bold.woff') format('woff'),
-	url('/gnCorp119/css/font/NotoSansKR-Bold.otf') format('opentype');
+    src: url('font/NotoSansKR-Bold.woff2') format('woff2'),
+	url('font/NotoSansKR-Bold.woff') format('woff'),
+	url('font/NotoSansKR-Bold.otf') format('opentype');
 }
 
 @font-face {
     font-family: 'Noto Sans KR';
     font-style: normal;
     font-weight: 900;
-    src: url('/gnCorp119/css/font/NotoSansKR-Black.woff2') format('woff2'),
-	url('/gnCorp119/css/font/NotoSansKR-Black.woff') format('woff'),
-	url('/gnCorp119/css/font/NotoSansKR-Black.otf') format('opentype');
+    src: url('font/NotoSansKR-Black.woff2') format('woff2'),
+	url('font/NotoSansKR-Black.woff') format('woff'),
+	url('font/NotoSansKR-Black.otf') format('opentype');
 }
 
 
 
 @font-face {
     font-family: 'SEBANG';
-    src: url('/gnCorp119/css/font/SEBANG-Gothic-OTF.otf') format('opentype');
+    src: url('font/SEBANG-Gothic-OTF.otf') format('opentype');
     font-weight: 100;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'SEBANG';
-    src: url('/gnCorp119/css/font/SEBANG-Gothic-OTF Bold.otf') format('opentype');
+    src: url('font/SEBANG-Gothic-OTF Bold.otf') format('opentype');
     font-weight: 700;
     font-style: normal;
 }
@@ -151,93 +151,93 @@ i {font-style:normal;}
     font-family: 'Pretendard';
     font-style: normal;
     font-weight: 100;
-    src: url('/gnCorp119/css/font/Pretendard-Thin.woff2') format('woff2');
+    src: url('font/Pretendard-Thin.woff2') format('woff2');
 }
 @font-face {
     font-family: 'Pretendard';
     font-style: normal;
     font-weight: 200;
-    src: url('/gnCorp119/css/font/Pretendard-ExtraLight.woff2') format('woff2');
+    src: url('font/Pretendard-ExtraLight.woff2') format('woff2');
 }
 @font-face {
     font-family: 'Pretendard';
     font-style: normal;
     font-weight: 300;
-    src: url('/gnCorp119/css/font/Pretendard-Light.woff2') format('woff2');
+    src: url('font/Pretendard-Light.woff2') format('woff2');
 }
 @font-face {
     font-family: 'Pretendard';
     font-style: normal;
     font-weight: 400;
-    src: url('/gnCorp119/css/font/Pretendard-Regular.woff2') format('woff2');
+    src: url('font/Pretendard-Regular.woff2') format('woff2');
 }
 @font-face {
     font-family: 'Pretendard';
     font-style: normal;
     font-weight: 500;
-    src: url('/gnCorp119/css/font/Pretendard-Medium.woff2') format('woff2');
+    src: url('font/Pretendard-Medium.woff2') format('woff2');
 }
 @font-face {
     font-family: 'Pretendard';
     font-style: normal;
     font-weight: 600;
-    src: url('/gnCorp119/css/font/Pretendard-SemiBold.woff2') format('woff2');
+    src: url('font/Pretendard-SemiBold.woff2') format('woff2');
 }
 @font-face {
     font-family: 'Pretendard';
     font-style: normal;
     font-weight: 700;
-    src: url('/gnCorp119/css/font/Pretendard-Bold.woff2') format('woff2');
+    src: url('font/Pretendard-Bold.woff2') format('woff2');
 }
 @font-face {
     font-family: 'Pretendard';
     font-style: normal;
     font-weight: 800;
-    src: url('/gnCorp119/css/font/Pretendard-ExtraBold.woff2') format('woff2');
+    src: url('font/Pretendard-ExtraBold.woff2') format('woff2');
 }
 @font-face {
     font-family: 'Pretendard';
     font-style: normal;
     font-weight: 900;
-    src: url('/gnCorp119/css/font/Pretendard-Black.woff2') format('woff2');
+    src: url('font/Pretendard-Black.woff2') format('woff2');
 }
 @font-face {
     font-family: 'GmarketSans';
     font-style: normal;
     font-weight: 100;
-    src: url('/gnCorp119/css/font/GmarketSansLight.otf') format('opentype');
+    src: url('font/GmarketSansLight.otf') format('opentype');
 }
 @font-face {
     font-family: 'GmarketSans';
     font-style: normal;
     font-weight: 400;
-    src: url('/gnCorp119/css/font/GmarketSansMedium.otf') format('opentype');
+    src: url('font/GmarketSansMedium.otf') format('opentype');
 }
 @font-face {
     font-family: 'GmarketSans';
     font-style: normal;
     font-weight: 600;
-    src: url('/gnCorp119/css/font/GmarketSansBold.otf') format('opentype');
+    src: url('font/GmarketSansBold.otf') format('opentype');
 }
 
 
 @font-face {
     font-family: 'SCDream';
-    src: url('/gnCorp119/css/font/SCDream1.otf') format('opentype');
+    src: url('font/SCDream1.otf') format('opentype');
     font-style: normal;
     font-weight: 100;
 }
 
 @font-face {
     font-family: 'SCDream';
-    src: url('/gnCorp119/css/font/SCDream2.otf') format('opentype');
+    src: url('font/SCDream2.otf') format('opentype');
     font-style: normal;
     font-weight: 200;
 }
 
 @font-face {
     font-family: 'SCDream';
-    src: url('/gnCorp119/css/font/SCDream3.otf') format('opentype');
+    src: url('font/SCDream3.otf') format('opentype');
     font-style: normal;
     font-weight: 300;
 }
@@ -245,42 +245,42 @@ i {font-style:normal;}
 
 @font-face {
     font-family: 'SCDream';
-    src: url('/gnCorp119/css/font/SCDream4.otf') format('opentype');
+    src: url('font/SCDream4.otf') format('opentype');
     font-style: normal;
     font-weight: 400;
 }
 
 @font-face {
     font-family: 'SCDream';
-    src: url('/gnCorp119/css/font/SCDream5.otf') format('opentype');
+    src: url('font/SCDream5.otf') format('opentype');
     font-style: normal;
     font-weight: 500;
 }
 
 @font-face {
     font-family: 'SCDream';
-    src: url('/gnCorp119/css/font/SCDream6.otf') format('opentype');
+    src: url('font/SCDream6.otf') format('opentype');
     font-style: normal;
     font-weight: 600;
 }
 
 @font-face {
     font-family: 'SCDream';
-    src: url('/gnCorp119/css/font/SCDream7.otf') format('opentype');
+    src: url('font/SCDream7.otf') format('opentype');
     font-style: normal;
     font-weight: 700;
 }
 
 @font-face {
     font-family: 'SCDream';
-    src: url('/gnCorp119/css/font/SCDream8.otf') format('opentype');
+    src: url('font/SCDream8.otf') format('opentype');
     font-weight: 800;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'SCDream';
-    src: url('/gnCorp119/css/font/SCDream9.otf') format('opentype');
+    src: url('font/SCDream9.otf') format('opentype');
     font-weight: 900;
     font-style: normal;
 }
